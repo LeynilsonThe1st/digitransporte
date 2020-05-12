@@ -184,6 +184,7 @@ button, .botao {
   padding: calc(2 * var(--universal-padding));
   border: 1px solid;
   border-image: linear-gradient(120deg, var(--main-color) 20%, var(--secundary-color)) 10;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
 }
 #app .cartao .dados {
   padding: calc(2 * var(--universal-padding));
